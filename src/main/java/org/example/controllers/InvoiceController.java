@@ -1,5 +1,6 @@
 package org.example.controllers;
 
+import org.example.dto.invoice.InvoiceCreateDTO;
 import org.example.exception.InvoiceNotFoundException;
 import org.example.model.Invoice;
 import org.example.service.IInvoiceService;
@@ -30,12 +31,12 @@ public class InvoiceController {
 
     @PostMapping("/save")
     public String saveInvoice(
-            @ModelAttribute Invoice invoice,
+            @ModelAttribute InvoiceCreateDTO dto,
             //  Model model,
             RedirectAttributes attributes
     ) {
-        service.saveInvice(invoice);
-        Long id = service.saveInvice(invoice).getId();
+        //service.saveInvoice(dto);
+        Long id = service.saveInvoice(dto).getId();
         //String message = "Record with id : '"+id+"' is saved successfully !";
 //        model.addAttribute("message", message);
 //        return "registerInvoicePage";
