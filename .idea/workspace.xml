@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2de36037-157a-4681-bf14-bd6afa8d910e" name="Changes" comment="initial">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/configuration/CustomWebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/configuration/CustomWebConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/controllers/api/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/controllers/api/CategoryController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/mapper/CategoryMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/mapper/CategoryMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/model/CategoryEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/model/CategoryEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/storage/StorageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/storage/StorageService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/storage/impl/FileSystemStorageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/storage/impl/FileSystemStorageService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploading/11467624-3296-4e00-982a-b9605ed2703f.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploading/1200_84f39ec5-2838-4b13-bd2b-688a2f48d324.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploading/150_84f39ec5-2838-4b13-bd2b-688a2f48d324.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploading/300_84f39ec5-2838-4b13-bd2b-688a2f48d324.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploading/32_84f39ec5-2838-4b13-bd2b-688a2f48d324.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploading/49ee50e4-0383-408c-a762-dc3c7c35c014.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploading/600_84f39ec5-2838-4b13-bd2b-688a2f48d324.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploading/6e0f143c-b1e3-47a1-b2c5-70d2873dbd6c.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploading/84b68e35-3206-404b-8683-0b1be9652dba.jfif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploading/97bcb748-c739-492d-8efb-8a987d669d81.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploading/b8d3db4e-8814-425e-bf59-6c7955e944e1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploading/da6f0320-2f14-46f7-acf6-5db4e6fa3019.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploading/e242ae98-8f9e-494e-a754-9e7762f10b26.jfif" beforeDir="false" />
-    </list>
+    <list default="true" id="2de36037-157a-4681-bf14-bd6afa8d910e" name="Changes" comment="initial" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
